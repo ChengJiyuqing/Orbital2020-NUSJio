@@ -4,6 +4,21 @@ NUSJio is a mobile application that provides NUS students with a platform to wid
 ## Project Proposal
 Link to our project proposal: https://docs.google.com/document/d/1DJ5l0XoyVsnLq2kthwsDtnDrQmAb0Jr9w-VV3m0pjek/edit?usp=sharing
 
+## Core Features
+1. Activity:
+
+   This is the most important element of our application. Users can create their own Jio (activity), while specifying the intended location and time. Users can also post limits on who can participate. 
+   There are two kinds of activites, private and public. Private activities can only be joined after joining requests are approved by the host. We expect this to be the more common type of activity used by users. For public activities, any user can join as long as the specific activity is still valid (i.e. has not ended).
+
+2. Login Page:
+    
+    Users must use their NUS account to sign in/up. This is to ensure this application is for NUS staff and students only. It also makes it easier to contact users should any accidents or unfortunte events happen.
+   
+2. Activity Page:
+
+   This is the first page that users see once they logged in. This page displays any future activities that users have, and highlights any activities that is happening today. This makes sure that user would not miss any of the activities. 
+   Under every activities, there are two buttons, one to start the activity immediately, another one to postpone the activity.
+   
 
 ## User Flow Diagram
 ![user_flow_diagram_simple](https://github.com/zeling595/Orbital2020-NUSJio/blob/master/Media/user_flow_diagram_simple.jpg)
