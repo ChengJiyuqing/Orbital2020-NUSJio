@@ -23,14 +23,20 @@ Link to our project proposal: https://docs.google.com/document/d/1DJ5l0XoyVsnLq2
    
 4. Explore Page:
 
-   This page is for users to have a quick look at activities scheduled by other users. Users can either search for specific activites or simply scan through various activites. Activites occuring nearer to the user will have higher priority in the queue. Users can also filter their search by activity type, number of participants and etc. 
+   This page is for users to have a quick look at activities scheduled by other users. Users can either search for specific activites or simply scan through various activites. Activites occuring sooner and nearer to the user will have higher priority in the queue. Users can also filter their search by activity type, number of participants and etc. 
 
 5. Create Your Activity
 
+   If the users cannot find ideal Jio from explore page, they can always create their own Jio using Create feature. In order to create a Jio, users need to craft a title, add a brief description and any other specifications and restraints on who can join (such as gender limit, participant number limit, faculty limits etc). They also need to select a location and schedule a time for the Jio. 
+
 5. Message Page
 
+   Users can chat with the host of an activity before they join. After joining, users will enter the group chat containing the host and all other participants. 
+   
 6. My Account Page
 
+   This page contains user's account information. User's view history, activity history, likes, and all activities started by themselves can be found in this page. It can also lead to setting page where users can set their basic preferrence. 
+  
 7. Other features
    
    Report: users can file reports on other participants for any misconduct. All reports will be dealt with seriousy. If found legit, the cases will be transferred to NUS for further investigation.
