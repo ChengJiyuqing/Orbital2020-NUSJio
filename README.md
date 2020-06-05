@@ -4,7 +4,7 @@ NUSJio is a mobile application that provides NUS students with a platform to wid
 ## Project Proposal
 Link to our project proposal: https://docs.google.com/document/d/1DJ5l0XoyVsnLq2kthwsDtnDrQmAb0Jr9w-VV3m0pjek/edit?usp=sharing
 
-## Core Features
+## Core Features （this section has been edited after 1 June)
 1. Activity:
 
    This is the most important element of our application. Users can create their own Jio (activity), while specifying the intended location (location can be anywhere within Singapore) and time. Users can also post limits on who can participate. 
